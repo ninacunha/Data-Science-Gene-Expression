@@ -1,5 +1,10 @@
 # Predicting Tumor Malignancy Using Machine Learning
 
+## Authors
+Nina Cunha, Logan Barros, Jason Pondugula, Charlotte Manalo, Arnav Mahajan
+
+---
+
 ## Overview
 This project applies machine learning models to predict whether a tumor is **benign or malignant** using diagnostic features from a breast cancer dataset. The notebook includes data preprocessing, exploratory analysis, feature selection, model training, and evaluation using multiple classification algorithms.
 
