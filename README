@@ -1,2 +1,27 @@
-Tumor feature dataset
-Goal: predict benign or malignant tumor based on features of the tumor
+# Tumor Malignancy Prediction — Machine Learning Project
+📌 Overview
+This project uses machine learning techniques to predict whether a tumor is benign or malignant using diagnostic features from breast cancer cell samples. The notebook includes data preprocessing, exploratory analysis, model training, performance evaluation, and insights into feature importance.
+
+# 🩺 Dataset
+
+The project uses a breast cancer diagnostic dataset (commonly the Breast Cancer Wisconsin Dataset).
+Typical features include:
+
+Mean radius
+
+Texture
+
+Smoothness
+
+Compactness
+
+Symmetry
+
+Fractal dimension
+…and more feature derivatives.
+
+Target variable:
+
+0 = Benign
+
+1 = Malignant
